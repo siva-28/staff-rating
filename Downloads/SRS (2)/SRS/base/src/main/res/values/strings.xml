@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="username"><font size="15"/>Username</string>
+    <string name="password">Password<font size="15"/>Password</string>
+    <string name="login">Login</string>
+    <string name="sign">Sign Up</string>
+</resources>

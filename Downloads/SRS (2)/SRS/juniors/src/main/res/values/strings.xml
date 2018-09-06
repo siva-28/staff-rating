@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">Username</string>
+
+    <string name="password">Password</string>
+
+    <string name="register">Register</string>
+
+    <string name="login">login</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="signup">SignUp</string>
+    <string name="logged_in">Logged in</string>
+    <string name="logout">Logout</string>
+    <string name="page2">page2</string>
+    <string name="us">username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Tab1">Tab1</string>
+    <string name="Tab2">Tab2</string>
+    <string name="Tab3">Tab3</string>
+    <string name="slidetabs">Slidetabs</string>
+    <string name="txt">TextView</string>
+    <string name="staff_name">staff name</string>
+
+</resources>
